@@ -18,11 +18,6 @@ Es un proyecto independiente, hecho por una sola persona. Nació como una versi�
 - Navegación simple. Inicio, Explorar, Biblioteca y búsqueda siempre a un toque.
 - Sin buscador de actualizaciones integrado.
 
-## Capturas
-![Explorar](melodix-frente-explorar-espacio.png)
-![Reproductor](melodix-frente-reproductor-espacio.png)
-![Letras](melodix-frente-letras-espacio.png)
-
 ## Imágenes
 ### Imagen 1 - Explorar
 ![Imagen 1](melodix-frente-explorar-espacio.png)
