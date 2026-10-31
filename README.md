@@ -1,13 +1,9 @@
 # Melodix
 Un reproductor de música para Android, con diseño cuidado y colores que cambian con cada canción.
 
-![cover 1](ruta/a/tu/imagen1.png)
-![cover 2](ruta/a/tu/imagen2.png)
-![cover 3](ruta/a/tu/imagen3.png)
+![Melodix Trio](melodix-trio.png)
 
 Descargar · Características · Capturas · Créditos · Aviso legal
-
-![banner](ruta/a/tu/imagen4.png)
 
 ## ¿Qué es Melodix?
 Melodix es una aplicación de música para Android que se conecta a YouTube Music y la presenta con una interfaz propia: limpia, en español y con mucho cuidado visual. Está pensada para quien quiere escuchar su música en una app que se vea bien y se sienta fluida.
@@ -24,15 +20,23 @@ Es un proyecto independiente, hecho por una sola persona. Nació como una versi�
 - **Sin buscador de actualizaciones integrado.** La app no consulta nada por su cuenta; las versiones nuevas se descargan desde Releases.
 
 ## Capturas
-![Explorar](ruta/a/tu/captura-explorar.png)
-![Reproductor](ruta/a/tu/captura-reproductor.png)
-![Letras](ruta/a/tu/captura-letras.png)
+![Explorar](melodix-frente-explorar-espacio.png)
+![Reproductor](melodix-frente-reproductor-espacio.png)
+![Letras](melodix-frente-letras-espacio.png)
 Explorar · Reproductor · Letras
 
+## Imágenes
+### Imagen 1 - Explorar
+![Explorar](melodix-frente-explorar-espacio.png)
+### Imagen 2 - Reproductor
+![Reproductor](melodix-frente-reproductor-espacio.png)
+### Imagen 3 - Letras
+![Letras](melodix-frente-letras-espacio.png)
+
 ## Descargar
-1. Entra a la sección Releases de este repositorio.
-2. Descarga el archivo .apk de la versión más reciente.
-3. Ábrelo en tu teléfono. Si Android lo pide, permite instalar aplicaciones de esta fuente.
+Entra a la sección Releases de este repositorio.
+Descarga el archivo .apk de la versión más reciente.
+Ábrelo en tu teléfono. Si Android lo pide, permite instalar aplicaciones de esta fuente.
 
 ## Créditos
 Melodix está basado en el trabajo de otros proyectos de código abierto.
@@ -40,7 +44,7 @@ Melodix está basado en el trabajo de otros proyectos de código abierto.
 Gracias a sus autores:
 - Metrolist, de donde parte la estructura del proyecto.
 - Basado en YouTube Music.
-- Letras de lrc.red.
+- Letras de http://lrc.red.
 
 ## Licencia
 Este proyecto se distribuye bajo la licencia GPL-3.0, igual que los proyectos en los que se basa. Puedes usar, estudiar y modificar el código, siempre que mantengas la misma licencia y los créditos. El texto completo está en el archivo LICENSE.
