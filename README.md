@@ -1,8 +1,6 @@
 Melodix
 Un reproductor de música para Android, con diseño cuidado y colores que cambian con cada canción.
-�
-�
-�
+
 Load image
 Load image
 Load image
