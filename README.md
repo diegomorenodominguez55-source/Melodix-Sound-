@@ -19,12 +19,6 @@ Es un proyecto independiente, hecho por una sola persona. Nació como una versi�
 - **Navegación simple.** Inicio, Explorar, Biblioteca y búsqueda siempre a un toque.
 - **Sin buscador de actualizaciones integrado.** La app no consulta nada por su cuenta; las versiones nuevas se descargan desde Releases.
 
-## Capturas
-![Explorar](melodix-frente-explorar-espacio.png)
-![Reproductor](melodix-frente-reproductor-espacio.png)
-![Letras](melodix-frente-letras-espacio.png)
-Explorar · Reproductor · Letras
-
 ## Imágenes
 ### Imagen 1 - Explorar
 ![Explorar](melodix-frente-explorar-espacio.png)
